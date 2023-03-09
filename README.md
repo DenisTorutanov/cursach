@@ -12,4 +12,4 @@
 4. В _"TkCheckers.py"_ находится игра
 
 Ссылка на exe-шник:
-
+https://drive.google.com/drive/folders/1KU7ksUUiTlhXCTPNuzWl1Rj4EF9J8an_?usp=share_link
